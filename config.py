@@ -10,7 +10,7 @@ class Config(object):
 
     # get a token from @BotFather
 
-    BOT_TOKEN = os.environ.get("BOT_TOKEN", "6010408687:AAFGTxGXf93zCP6jYbAUfZ7KGGK9UyV5qvk")
+    BOT_TOKEN = os.environ.get("BOT_TOKEN", "6098387997:AAF0zipEzeLWiV04aslwdkdmuYfvwb1YFXg")
 
     API_ID = int(os.environ.get("API_ID", "29115376"))
 
