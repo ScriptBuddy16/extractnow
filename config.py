@@ -16,4 +16,4 @@ class Config(object):
 
     API_HASH = os.environ.get("API_HASH", "f1f760713aa29df4983cd7aef1b035a2")
 
-    AUTH_USERS = "5207969772"
+    AUTH_USERS = "5269772"
